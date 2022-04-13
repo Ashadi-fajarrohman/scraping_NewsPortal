@@ -1,6 +1,6 @@
 # scraping_NewsPortal
-
-## scrape web
+This code will scrape data from the news web and the output is a new web that displays the most popular news on detik.com in real time
+## How this code works
 ####1. Install package
     Install requests:
         pip install requests
